@@ -1,5 +1,5 @@
 # Take-A-Hike
-Uses Geocoding API and Haversine's formula to determine the nearest hiking trails in Connecticut and sort them based on distance from current position.
+Uses Geocoding API and the haversine formula to determine the nearest hiking trails in Connecticut and sort them based on distance from current position.
 
 # To-do
 - get current location without user input
